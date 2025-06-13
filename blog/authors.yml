@@ -1,0 +1,25 @@
+yangshun:
+  name: Alice
+  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+  url: https://linkedin.com/in/yangshun
+  image_url: https://pic.qqans.com/up/2022-9/16638104153605787.jpg
+  page: true
+  socials:
+    x: yangshunz
+    linkedin: yangshun
+    github: yangshun
+    newsletter: https://www.greatfrontend.com
+
+slorber:
+  name: Cinderella
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://pic.qqans.com/up/2022-9/16638935403716886.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com

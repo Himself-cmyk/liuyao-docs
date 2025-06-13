@@ -1,0 +1,29 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+lyric:
+  label: lyric
+  permalink: /lyric
+  description: this is song's lyric
+
+slogn:
+  label: slogn
+  permalink: /slogn
+  description: this is a special slogn
